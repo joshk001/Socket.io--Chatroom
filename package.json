@@ -1,0 +1,8 @@
+{
+  "name": "group_chat_with_socket_io",
+  "start": "node server.js",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "^1.3.6"
+    }
+}
